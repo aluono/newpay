@@ -78,76 +78,74 @@ proxies:
 
   - name: EG11
     type: socks5
-    server: 106.75.152.119
-    port: "1000"
-    username: 0deb2de4-d0cd2250-434ba8
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-1-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG12
     type: socks5
-    server: 106.75.152.119
-    port: "1001"
-    username: 0deb2de4-d0cd2250-a71e91
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-2-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG13
     type: socks5
-    server: 106.75.152.119
-    port: "1002"
-    username: 0deb2de4-d0cd2250-f844ed
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-3-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG14
     type: socks5
-    server: 106.75.152.119
-    port: "1003"
-    username: 0deb2de4-d0cd2250-1f243c
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-4-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG15
     type: socks5
-    server: 106.75.152.119
-    port: "1004"
-    username: 0deb2de4-d0cd2250-54d40a
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-5-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG16
     type: socks5
-    server: 106.75.152.119
-    port: "1005"
-    username: 0deb2de4-d0cd2250-57323c
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-6-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG17
     type: socks5
-    server: 106.75.152.119
-    port: "1006"
-    username: 0deb2de4-d0cd2250-d856a8
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-7-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG18
     type: socks5
-    server: 106.75.152.119
-    port: "1007"
-    username: 0deb2de4-d0cd2250-2dc6c6
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-8-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG19
     type: socks5
-    server: 106.75.152.119
-    port: "1008"
-    username: 0deb2de4-d0cd2250-8c0f06
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-9-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG20
     type: socks5
-    server: 106.75.152.119
-    port: "1009"
-    username: 0deb2de4-d0cd2250-942cca
-    password: mobile-eg---
+    server: gate.smartproxy.com
+    port: "7000"
+    username: user-spwtms2mec-session-10-country-eg
+    password: i=foTnrVk7f5c9VS4i
     udp: true
-
-
 
 
 
@@ -156,73 +154,73 @@ proxies:
 
   - name: TR01
     type: socks5
-    server: 106.75.152.119
-    port: "1000"
-    username: 0deb2de4-4e71edf4-c287f7
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-1-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR02
     type: socks5
-    server: 106.75.152.119
-    port: "1001"
-    username: 0deb2de4-4e71edf4-acbcfa
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-2-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR03
     type: socks5
-    server: 106.75.152.119
-    port: "1002"
-    username: 0deb2de4-4e71edf4-b548db
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-3-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR04
     type: socks5
-    server: 106.75.152.119
-    port: "1003"
-    username: 0deb2de4-4e71edf4-0f228a
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-4-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR05
     type: socks5
-    server: 106.75.152.119
-    port: "1004"
-    username: 0deb2de4-4e71edf4-80724b
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-5-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR06
     type: socks5
-    server: 106.75.152.119
-    port: "1005"
-    username: 0deb2de4-4e71edf4-b78b75
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-6-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR07
     type: socks5
-    server: 106.75.152.119
-    port: "1006"
-    username: 0deb2de4-4e71edf4-bc471a
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-7-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR08
     type: socks5
-    server: 106.75.152.119
-    port: "1007"
-    username: 0deb2de4-4e71edf4-080436
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-8-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR09
     type: socks5
-    server: 106.75.152.119
-    port: "1008"
-    username: 0deb2de4-4e71edf4-08e457
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-9-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: TR10
     type: socks5
-    server: 106.75.152.119
-    port: "1009"
-    username: 0deb2de4-4e71edf4-eed548
-    password: mobile-tr---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-10-country-tr
+    password: i=foTnrVk7f5c9VS4i
     udp: true
 
   - {name: 土耳其1, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-TR-sessid-iGZoZ2y7-sessTime-15, password: dJIA8BM3}
