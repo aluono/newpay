@@ -147,41 +147,9 @@ proxies:
     password: mobile-eg---
     udp: true
 
-  - name: EGmoo01
-    type: socks5
-    server: sg.mooproxy.xyz
-    port: "55688"
-    username: huhuhuoo
-    password: jxyBawn50s_country-eg_session-yNLXOrFl
-    udp: true
-  - name: EGmoo02
-    type: socks5
-    server: sg.mooproxy.xyz
-    port: "55688"
-    username: huhuhuoo
-    password: jxyBawn50s_country-eg_session-aYL8St6Q
-    udp: true
-  - name: EGmoo03
-    type: socks5
-    server: sg.mooproxy.xyz
-    port: "55688"
-    username: huhuhuoo
-    password: jxyBawn50s_country-eg_session-dTMECpgK
-    udp: true
-  - name: EGmoo04
-    type: socks5
-    server: sg.mooproxy.xyz
-    port: "55688"
-    username: huhuhuoo
-    password: jxyBawn50s_country-eg_session-vhXLKw3V
-    udp: true
-  - name: EGmoo05
-    type: socks5
-    server: sg.mooproxy.xyz
-    port: "55688"
-    username: huhuhuoo
-    password: jxyBawn50s_country-eg_session-JSrR6KZ1
-    udp: true
+
+
+
 
 
 
@@ -268,82 +236,92 @@ proxies:
   - {name: 土耳其9, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-BKhJacZV}
   - {name: 土耳其10, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-9WytzQkN}
 
+
+
+
+
+
+
+
   - name: NG01
     type: socks5
-    server: 106.75.152.119
-    port: "1000"
-    username: 0deb2de4-4e71edf4-13d94d
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-1-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG02
     type: socks5
-    server: 106.75.152.119
-    port: "1001"
-    username: 0deb2de4-4e71edf4-012ab2
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-2-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG03
     type: socks5
-    server: 106.75.152.119
-    port: "1002"
-    username: 0deb2de4-4e71edf4-c05b63
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-3-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG04
     type: socks5
-    server: 106.75.152.119
-    port: "1003"
-    username: 0deb2de4-4e71edf4-0bfc5b
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-4-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG05
     type: socks5
-    server: 106.75.152.119
-    port: "1004"
-    username: 0deb2de4-4e71edf4-18a225
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-5-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG06
     type: socks5
-    server: 106.75.152.119
-    port: "1005"
-    username: 0deb2de4-4e71edf4-7eba89
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-6-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG07
     type: socks5
-    server: 106.75.152.119
-    port: "1006"
-    username: 0deb2de4-4e71edf4-ea6c66
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-7-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG08
     type: socks5
-    server: 106.75.152.119
-    port: "1007"
-    username: 0deb2de4-4e71edf4-304ff6
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-8-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG09
     type: socks5
-    server: 106.75.152.119
-    port: "1008"
-    username: 0deb2de4-4e71edf4-e6f39e
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-9-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: NG10
     type: socks5
-    server: 106.75.152.119
-    port: "1009"
-    username: 0deb2de4-4e71edf4-657629
-    password: mobile-ng---
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-10-country-ng
+    password: i=foTnrVk7f5c9VS4i
     udp: true
+
   - {name: NG11, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-BX3kSVGn} 
   - {name: NG12, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-OgYRhaU0}
   - {name: NG13, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-WrLERmlH}
   - {name: NG14, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-lWKsoQ7c}
   - {name: NG15, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-Eh9POsIg}
-    
+
+
+
   - {name: 缅甸1, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: 47353961-zone-custom-region-MM-sessid-kmszjXc0-sessTime-15, password: dJIA8BM3}
   - {name: 缅甸2, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-3uNCfzJE-sessTime-15, password: dJIA8BM3}
   - {name: 缅甸3, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-lfMahCnS-sessTime-15, password: dJIA8BM3}
@@ -511,11 +489,7 @@ proxy-groups:
       - EG18
       - EG19
       - EG20
-      - EGmoo01
-      - EGmoo02
-      - EGmoo03
-      - EGmoo04
-      - EGmoo05
+
     type: select
     disable-udp: false
     health-check:
