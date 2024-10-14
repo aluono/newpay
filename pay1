@@ -80,70 +80,70 @@ proxies:
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-1-country-eg
+    username: user-spwtms2mec-session-11-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG12
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-2-country-eg
+    username: user-spwtms2mec-session-12-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG13
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-3-country-eg
+    username: user-spwtms2mec-session-13-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG14
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-4-country-eg
+    username: user-spwtms2mec-session-14-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG15
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-5-country-eg
+    username: user-spwtms2mec-session-15-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG16
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-6-country-eg
+    username: user-spwtms2mec-session-16-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG17
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-7-country-eg
+    username: user-spwtms2mec-session-17-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG18
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-8-country-eg
+    username: user-spwtms2mec-session-18-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG19
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-9-country-eg
+    username: user-spwtms2mec-session-19-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
   - name: EG20
     type: socks5
     server: gate.smartproxy.com
     port: "7000"
-    username: user-spwtms2mec-session-10-country-eg
+    username: user-spwtms2mec-session-20-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
 
