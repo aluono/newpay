@@ -146,16 +146,16 @@ proxies:
     username: user-spwtms2mec-session-20-country-eg
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - {name: 埃及1, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-zfMZZBQq-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及2, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-SmmPVJOy-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及3, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-Eyhoe4xZ-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及4, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-Ajd6PZzx-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及5, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-76NRA7QP-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及6, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-QF3S5XWq-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及7, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-b56mswAN-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及8, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-b8GdxzaL-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及9, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-vbPY6tQq-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及10, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-EG-sessid-9G8ScPkO-sessTime-15, password: dJIA8BM3}
+  - {name: 埃及1, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10000, password: cak4dmxlw8za68z}
+  - {name: 埃及2, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10001, password: cak4dmxlw8za68z}
+  - {name: 埃及3, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10002, password: cak4dmxlw8za68z}
+  - {name: 埃及4, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10003, password: cak4dmxlw8za68z}
+  - {name: 埃及5, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10004, password: cak4dmxlw8za68z}
+  - {name: 埃及6, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10005, password: cak4dmxlw8za68z}
+  - {name: 埃及7, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10006, password: cak4dmxlw8za68z}
+  - {name: 埃及8, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10007, password: cak4dmxlw8za68z}
+  - {name: 埃及9, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10008, password: cak4dmxlw8za68z}
+  - {name: 埃及10, server: gate-sg.ipfoxy.io, port: 58688, type: socks5, username: customer-ykYxDPdJUh-cc-EG-sessid-1729423249_10009, password: cak4dmxlw8za68z}
 
 
 
