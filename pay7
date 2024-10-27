@@ -577,9 +577,6 @@ proxy-groups:
       url: http://www.gstatic.com/generate_204
 
 rules:
-  - DOMAIN,play.googleapis.com,主路线
-  - DOMAIN,myaccount.google.com,主路线
-  - DOMAIN-KEYWORD,accounts.google.com,主路线
   - DOMAIN,play-fe.googleapis.com,谷歌分流
   - DOMAIN,sspanel.net,谷歌分流
   - DOMAIN,payments-pa.googleapis.com,谷歌分流
