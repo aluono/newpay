@@ -1,0 +1,662 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+  - name: EG-1-01
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-1-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-02
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-2-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-03
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-3-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-04
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-4-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-05
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-5-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-06
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-6-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-07
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-7-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-08
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-8-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-09
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-9-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-10
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-10-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-11
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-11-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: EG-1-12
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-12-country-eg
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+
+
+ - name: EG-2-01
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10000
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-02
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10001
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-03
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10002
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-04
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10003
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-05
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10004
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-06
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10005
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-07
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10006
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-08
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10007
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-09
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10008
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-10
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10009
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-11
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10010
+    password: cak4dmxlw8za68z
+    udp: true
+ - name: EG-2-12
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-EG-sessid-1730123103_10011
+    password: cak4dmxlw8za68z
+    udp: true
+
+
+ - name: EG-3-01
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-78389813
+ - name: EG-3-02
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-39605568
+ - name: EG-3-03
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-68758979
+ - name: EG-3-04
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-69686693
+ - name: EG-3-05
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-89922307
+ - name: EG-3-06
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-67936073
+ - name: EG-3-07
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-57284395
+ - name: EG-3-08
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-14240763
+ - name: EG-3-09
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-76734783
+ - name: EG-3-10
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-85491856
+ - name: EG-3-11
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-57325553
+ - name: EG-3-12
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-EG-33305798
+
+
+ 
+
+
+
+
+
+  - {name: TR-1-01, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-11-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-02, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-12-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-03, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-13-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-04, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-14-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-05, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-15-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-06, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-16-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-07, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-17-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-08, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-18-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-09, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-19-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-10, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-20-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-11, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-19-country-tr, password: i=foTnrVk7f5c9VS4i}
+  - {name: TR-1-12, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-20-country-tr, password: i=foTnrVk7f5c9VS4i}
+
+
+  - {name: TR-2-01, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10000, password: cak4dmxlw8za68z}
+  - {name: TR-2-02, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10001, password: cak4dmxlw8za68z}
+  - {name: TR-2-03, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10002, password: cak4dmxlw8za68z}
+  - {name: TR-2-04, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10003, password: cak4dmxlw8za68z}
+  - {name: TR-2-05, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10004, password: cak4dmxlw8za68z}
+  - {name: TR-2-06, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10005, password: cak4dmxlw8za68z}
+  - {name: TR-2-07, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10006, password: cak4dmxlw8za68z}
+  - {name: TR-2-08, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10007, password: cak4dmxlw8za68z}
+  - {name: TR-2-09, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10008, password: cak4dmxlw8za68z}
+  - {name: TR-2-10, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10009, password: cak4dmxlw8za68z}
+  - {name: TR-2-11, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10010, password: cak4dmxlw8za68z}
+  - {name: TR-2-12, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10011, password: cak4dmxlw8za68z}
+
+
+  - {name: TR-3-01, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-37604036}
+  - {name: TR-3-02, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-24565007}
+  - {name: TR-3-03, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-63500063}
+  - {name: TR-3-04, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-26032457}
+  - {name: TR-3-05, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-20672213}
+  - {name: TR-3-06, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-32458714}
+  - {name: TR-3-07, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-37604036}
+  - {name: TR-3-08, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-04670876}
+  - {name: TR-3-09, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-54511509}
+  - {name: TR-3-10, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-18846769}
+  - {name: TR-3-11, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-74107015}
+  - {name: TR-3-12, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-70440182}
+
+
+
+
+
+
+  - name: NG01
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-1-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG02
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-2-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG03
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-3-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG04
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-4-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG05
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-5-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG06
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-6-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG07
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-7-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG08
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-8-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG09
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-9-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG10
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-10-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+
+  - {name: NG11, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-BX3kSVGn} 
+  - {name: NG12, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-OgYRhaU0}
+  - {name: NG13, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-WrLERmlH}
+  - {name: NG14, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-lWKsoQ7c}
+  - {name: NG15, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-Eh9POsIg}
+
+
+
+  - {name: 缅甸1, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: 47353961-zone-custom-region-MM-sessid-kmszjXc0-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸2, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-3uNCfzJE-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸3, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-lfMahCnS-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸4, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-cEGwQAjc-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸5, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-Wbh9u2rQ-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸6, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-kkUmAw1U-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸7, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-61Eqwe1c-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸8, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-pldGAIdp-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸9, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-86N7SMnE-sessTime-15, password: dJIA8BM3}
+  - {name: 缅甸10, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-0cOzuZkG-sessTime-15, password: dJIA8BM3}
+  - name: 缅甸11
+    type: socks5
+    server: 106.75.152.119
+    port: "1000"
+    username: 0deb2de4-4e71edf4-dc1e67
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸12
+    type: socks5
+    server: 106.75.152.119
+    port: "1001"
+    username: 0deb2de4-4e71edf4-920fa3
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸13
+    type: socks5
+    server: 106.75.152.119
+    port: "1002"
+    username: 0deb2de4-4e71edf4-14b9e1
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸14
+    type: socks5
+    server: 106.75.152.119
+    port: "1003"
+    username: 0deb2de4-4e71edf4-b4decd
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸15
+    type: socks5
+    server: 106.75.152.119
+    port: "1004"
+    username: 0deb2de4-4e71edf4-39a3df
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸16
+    type: socks5
+    server: 106.75.152.119
+    port: "1005"
+    username: 0deb2de4-4e71edf4-b8087f
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸17
+    type: socks5
+    server: 106.75.152.119
+    port: "1006"
+    username: 0deb2de4-4e71edf4-0ef5db
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸18
+    type: socks5
+    server: 106.75.152.119
+    port: "1007"
+    username: 0deb2de4-4e71edf4-202da8
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸19
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 0deb2de4-4e71edf4-03235e
+    password: mobile-mm---
+    udp: true
+  - name: 缅甸20
+    type: socks5
+    server: 106.75.152.119
+    port: "1009"
+    username: 0deb2de4-4e71edf4-6a7bd6
+    password: mobile-mm---
+    udp: true
+
+
+proxy-providers:
+          机场:
+            type: http
+            url: https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7
+            interval: 86400
+            path: ./proxy_provider/jc.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204
+proxy-groups:
+  - name: 主线路
+    proxies:
+      - DIRECT
+      - 谷歌分流
+    use:
+      - 机场
+    type: select
+    disable-udp: true
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  - name: 谷歌分流
+    proxies:
+      - REJECT 
+      - Nigeria
+      - Egypt
+      - Turkey
+      - 缅甸
+    type: select
+    disable-udp: false
+    health-check:
+      enable: false
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+
+  - name: Nigeria
+    proxies:
+      - NG01
+      - NG02
+      - NG03
+      - NG04
+      - NG05
+      - NG06
+      - NG07
+      - NG08
+      - NG09
+      - NG10
+      - NG11
+      - NG12
+      - NG13
+      - NG14
+      - NG15
+    type: select
+    disable-udp: false
+    health-check:
+      enable: false
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+      
+      
+  - name: Egypt
+    proxies:
+      - EG-1-01
+      - EG-1-02
+      - EG-1-03
+      - EG-1-04
+      - EG-1-05
+      - EG-1-06
+      - EG-1-07
+      - EG-1-08
+      - EG-1-09
+      - EG-1-10
+      - EG-1-11
+      - EG-1-12
+      
+      - EG-2-01
+      - EG-2-02
+      - EG-2-03
+      - EG-2-04
+      - EG-2-05
+      - EG-2-06
+      - EG-2-07
+      - EG-2-08
+      - EG-2-09
+      - EG-2-10
+      - EG-2-11
+      - EG-2-12
+      
+      - EG-3-01
+      - EG-3-02
+      - EG-3-03
+      - EG-3-04
+      - EG-3-05
+      - EG-3-06
+      - EG-3-07
+      - EG-3-08
+      - EG-3-09
+      - EG-3-12
+      - EG-3-11
+      - EG-3-12
+    type: select
+    disable-udp: false
+    health-check:
+      enable: false
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+        
+         
+  - name: Turkey
+    proxies:
+      - TR-1-01
+      - TR-1-02
+      - TR-1-03
+      - TR-1-04
+      - TR-1-05
+      - TR-1-06
+      - TR-1-07
+      - TR-1-08
+      - TR-1-09
+      - TR-1-10
+      - TR-1-11
+      - TR-1-12
+      
+      - TR-2-01
+      - TR-2-02
+      - TR-2-03
+      - TR-2-04
+      - TR-2-05
+      - TR-2-06
+      - TR-2-07
+      - TR-2-08
+      - TR-2-09
+      - TR-2-10
+      - TR-2-11
+      - TR-2-12
+      
+      - TR-3-01
+      - TR-3-02
+      - TR-3-03
+      - TR-3-04
+      - TR-3-05
+      - TR-3-06
+      - TR-3-07
+      - TR-3-08
+      - TR-3-09
+      - TR-3-12
+      - TR-3-11
+      - TR-3-12         
+    type: select
+    disable-udp: false
+    health-check:
+      enable: false
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+       
+      
+  - name: 缅甸
+    proxies:
+      - 缅甸1
+      - 缅甸2
+      - 缅甸3
+      - 缅甸4
+      - 缅甸5
+      - 缅甸6
+      - 缅甸7
+      - 缅甸8
+      - 缅甸9
+      - 缅甸10
+      - 缅甸11
+      - 缅甸12
+      - 缅甸13
+      - 缅甸14
+      - 缅甸15
+      - 缅甸16
+      - 缅甸17
+      - 缅甸18
+      - 缅甸19
+      - 缅甸20
+    type: select
+    disable-udp: false
+    health-check:
+      enable: false
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+
+rules:
+  - DOMAIN,play.googleapis.com,谷歌分流
+  - DOMAIN,myaccount.google.com,谷歌分流
+  - DOMAIN-KEYWORD,accounts.google.com,谷歌分流
+  - DOMAIN,play-fe.googleapis.com,谷歌分流
+  - DOMAIN,sspanel.net,谷歌分流
+  - DOMAIN,payments-pa.googleapis.com,谷歌分流
+  - MATCH,主线路
