@@ -263,16 +263,22 @@ proxies:
   - {name: 土耳其19, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-19-country-tr, password: i=foTnrVk7f5c9VS4i}
   - {name: 土耳其20, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-20-country-tr, password: i=foTnrVk7f5c9VS4i}
   
-  - {name: 土耳其21, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
-  - {name: 土耳其22, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10001, password: cak4dmxlw8za68z}
-  - {name: 土耳其23, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10002, password: cak4dmxlw8za68z}
-  - {name: 土耳其24, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10003, password: cak4dmxlw8za68z}
-  - {name: 土耳其25, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10004, password: cak4dmxlw8za68z}
-  - {name: 土耳其26, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10005, password: cak4dmxlw8za68z}
-  - {name: 土耳其27, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10006, password: cak4dmxlw8za68z}
-  - {name: 土耳其28, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10007, password: cak4dmxlw8za68z}
-  - {name: 土耳其29, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10008, password: cak4dmxlw8za68z}
-  - {name: 土耳其30, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10009, password: cak4dmxlw8za68z}
+  - {name: 土耳其21, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其22, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10001, password: cak4dmxlw8za68z}
+  - {name: 土耳其23, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10002, password: cak4dmxlw8za68z}
+  - {name: 土耳其24, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10003, password: cak4dmxlw8za68z}
+  - {name: 土耳其25, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10004, password: cak4dmxlw8za68z}
+  - {name: 土耳其26, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10005, password: cak4dmxlw8za68z}
+  - {name: 土耳其27, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10006, password: cak4dmxlw8za68z}
+  - {name: 土耳其28, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10007, password: cak4dmxlw8za68z}
+  - {name: 土耳其29, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10008, password: cak4dmxlw8za68z}
+  - {name: 土耳其30, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10009, password: cak4dmxlw8za68z}
+
+  - {name: 土耳其31, server: 103.136.150.116, port: 10301, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-GPN7JZpv}
+  - {name: 土耳其32, server: 103.136.150.116, port: 10301, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-D2iENAkw}
+  - {name: 土耳其33, server: 103.136.150.116, port: 10301, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-ek4ghGxS}
+  - {name: 土耳其34, server: 103.136.150.116, port: 10301, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-HkJe4WUP}
+  - {name: 土耳其35, server: 103.136.150.116, port: 10301, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-35osek84}
 
 
 
@@ -599,6 +605,12 @@ proxy-groups:
       - 土耳其28
       - 土耳其29
       - 土耳其30
+      - 土耳其31
+      - 土耳其32
+      - 土耳其33
+      - 土耳其34
+      - 土耳其35
+
           
     type: select
     disable-udp: false
