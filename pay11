@@ -262,7 +262,16 @@ proxies:
   - {name: 土耳其18, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-18-country-tr, password: i=foTnrVk7f5c9VS4i}
   - {name: 土耳其19, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-19-country-tr, password: i=foTnrVk7f5c9VS4i}
   - {name: 土耳其20, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-20-country-tr, password: i=foTnrVk7f5c9VS4i}
-
+  - {name: 土耳其21, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其22, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其23, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其24, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其25, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其26, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其27, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其28, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其29, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
+  - {name: 土耳其30, server: 117.72.54.13, port: 8895, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730098587_10000, password: cak4dmxlw8za68z}
 
 
 
@@ -578,6 +587,17 @@ proxy-groups:
       - 土耳其18
       - 土耳其19
       - 土耳其20
+
+      - 土耳其21
+      - 土耳其22
+      - 土耳其23
+      - 土耳其24
+      - 土耳其25
+      - 土耳其26
+      - 土耳其27
+      - 土耳其28
+      - 土耳其29
+      - 土耳其30
           
     type: select
     disable-udp: false
