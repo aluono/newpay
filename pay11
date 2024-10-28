@@ -619,6 +619,7 @@ proxy-groups:
 rules:
   - DOMAIN,play.googleapis.com,谷歌分流
   - DOMAIN,myaccount.google.com,谷歌分流
+  - DOMAIN-KEYWORD,accounts.google.com,谷歌分流
   - DOMAIN,play-fe.googleapis.com,谷歌分流
   - DOMAIN,sspanel.net,谷歌分流
   - DOMAIN,payments-pa.googleapis.com,谷歌分流
