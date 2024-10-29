@@ -302,83 +302,252 @@ proxies:
 
 
 
-
-  - name: NG01
+  - name: NG-1-01
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-1-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG02
+  - name: NG-1-02
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-2-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG03
+  - name: NG-1-03
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-3-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG04
+  - name: NG-1-04
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-4-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG05
+  - name: NG-1-05
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-5-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG06
+  - name: NG-1-06
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-6-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG07
+  - name: NG-1-07
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-7-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG08
+  - name: NG-1-08
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-8-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG09
+  - name: NG-1-09
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-9-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
-  - name: NG10
+  - name: NG-1-10
     type: socks5
     server: gate.visitxiangtan.com
     port: "7000"
     username: user-spwtms2mec-session-10-country-ng
     password: i=foTnrVk7f5c9VS4i
     udp: true
+  - name: NG-1-11
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-11-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
+  - name: NG-1-12
+    type: socks5
+    server: gate.visitxiangtan.com
+    port: "7000"
+    username: user-spwtms2mec-session-12-country-ng
+    password: i=foTnrVk7f5c9VS4i
+    udp: true
 
-  - {name: NG11, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-BX3kSVGn} 
-  - {name: NG12, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-OgYRhaU0}
-  - {name: NG13, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-WrLERmlH}
-  - {name: NG14, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-lWKsoQ7c}
-  - {name: NG15, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-Eh9POsIg}
+
+  - name: NG-2-01
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10000
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-02
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10001
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-03
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10002
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-04
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10003
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-05
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10004
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-06
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10005
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-07
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10006
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-08
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10007
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-09
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10008
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-10
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10009
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-11
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10010
+    password: cak4dmxlw8za68z
+    udp: true
+  - name: NG-2-12
+    type: socks5
+    server: 103.136.150.116
+    port: "10303"
+    username: customer-ykYxDPdJUh-cc-NG-sessid-1730206560_10011
+    password: cak4dmxlw8za68z
+    udp: true
+
+
+  - name: NG-3-01
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-12058364
+  - name: NG-3-02
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-27342519
+  - name: NG-3-03
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-10289112
+  - name: NG-3-04
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-33081306
+  - name: NG-3-05
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-27639088
+  - name: NG-3-06
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-20521217
+  - name: NG-3-07
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-58625711
+  - name: NG-3-08
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-84959316
+  - name: NG-3-09
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-75212555
+  - name: NG-3-10
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-34903151
+  - name: NG-3-11
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-43149589
+  - name: NG-3-12
+    type: socks5
+    server: 103.136.150.116
+    port: "10309"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-93834399
+
+
 
 
 
@@ -504,21 +673,44 @@ proxy-groups:
 
   - name: Nigeria
     proxies:
-      - NG01
-      - NG02
-      - NG03
-      - NG04
-      - NG05
-      - NG06
-      - NG07
-      - NG08
-      - NG09
-      - NG10
-      - NG11
-      - NG12
-      - NG13
-      - NG14
-      - NG15
+      - NG-1-01
+      - NG-1-02
+      - NG-1-03
+      - NG-1-04
+      - NG-1-05
+      - NG-1-06
+      - NG-1-07
+      - NG-1-08
+      - NG-1-09
+      - NG-1-10
+      - NG-1-11
+      - NG-1-12
+      
+      - NG-2-01
+      - NG-2-02
+      - NG-2-03
+      - NG-2-04
+      - NG-2-05
+      - NG-2-06
+      - NG-2-07
+      - NG-2-08
+      - NG-2-09
+      - NG-2-10
+      - NG-2-11
+      - NG-2-12
+      
+      - NG-3-01
+      - NG-3-02
+      - NG-3-03
+      - NG-3-04
+      - NG-3-05
+      - NG-3-06
+      - NG-3-07
+      - NG-3-08
+      - NG-3-09
+      - NG-3-10
+      - NG-3-11
+      - NG-3-12
     type: select
     disable-udp: false
     health-check:
