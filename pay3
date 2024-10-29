@@ -491,9 +491,9 @@ proxy-groups:
   - name: 谷歌分流
     proxies:
       - REJECT 
-      - Nigeria
       - Egypt
       - Turkey
+      - Nigeria
       - 缅甸
     type: select
     disable-udp: false
@@ -564,7 +564,7 @@ proxy-groups:
       - EG-3-07
       - EG-3-08
       - EG-3-09
-      - EG-3-12
+      - EG-3-10
       - EG-3-11
       - EG-3-12
     type: select
