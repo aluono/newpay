@@ -780,7 +780,7 @@ proxy-groups:
       url: http://www.gstatic.com/generate_204
 
   - name: 登录专用
-    type: "select"
+    type: select
     proxies:
       - 主线路
     type: select
