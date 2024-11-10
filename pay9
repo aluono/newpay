@@ -621,6 +621,48 @@ proxies:
 
 
 
+  - {name: COL-1-01, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-1-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-02, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-2-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-03, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-3-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-04, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-4-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-05, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-5-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-06, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-6-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-07, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-7-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-08, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-8-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-09, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-9-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-10, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-10-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-11, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-11-country-co, password: i=foTnrVk7f5c9VS4i}
+  - {name: COL-1-12, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-12-country-co, password: i=foTnrVk7f5c9VS4i}
+
+
+  - {name: COL-2-01, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_43738458_time_10, password: cvy256c2gd1}
+  - {name: COL-2-02, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_93655885_time_10, password: cvy256c2gd1}
+  - {name: COL-2-03, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_62418113_time_10, password: cvy256c2gd1}
+  - {name: COL-2-04, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_45782175_time_10, password: cvy256c2gd1}
+  - {name: COL-2-05, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_59512449_time_10, password: cvy256c2gd1}
+  - {name: COL-2-06, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_35946364_time_10, password: cvy256c2gd1}
+  - {name: COL-2-07, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_15731511_time_10, password: cvy256c2gd1}
+  - {name: COL-2-08, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_27294135_time_10, password: cvy256c2gd1}
+  - {name: COL-2-09, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_35755883_time_10, password: cvy256c2gd1}
+  - {name: COL-2-10, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_17982611_time_10, password: cvy256c2gd1}
+  - {name: COL-2-11, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_77521464_time_10, password: cvy256c2gd1}
+  - {name: COL-2-12, server: 43.199.73.106, port: 10002, type: socks5, username: adudu12_custom_zone_CO_sid_55444393_time_10, password: cvy256c2gd1}
+
+
+  - {name: COL-3-01, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-76328343}
+  - {name: COL-3-02, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-27373845}
+  - {name: COL-3-03, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-45100267}
+  - {name: COL-3-04, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-36261914}
+  - {name: COL-3-05, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-33328539}
+  - {name: COL-3-06, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-90242568}
+  - {name: COL-3-07, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-10824006}
+  - {name: COL-3-08, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-20482393}
+  - {name: COL-3-09, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-72898139}
+  - {name: COL-3-10, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-14902264}
+  - {name: COL-3-11, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-78746951}
+  - {name: COL-3-12, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-69669665}
+
+
   - {name: 缅甸1, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: 47353961-zone-custom-region-MM-sessid-kmszjXc0-sessTime-15, password: dJIA8BM3}
   - {name: 缅甸2, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-3uNCfzJE-sessTime-15, password: dJIA8BM3}
   - {name: 缅甸3, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-lfMahCnS-sessTime-15, password: dJIA8BM3}
@@ -772,6 +814,7 @@ proxy-groups:
       - Egypt
       - Turkey
       - Nigeria
+      - Columbia
       - 缅甸
     type: select
     disable-udp: false
@@ -946,7 +989,53 @@ proxy-groups:
       enable: false
       interval: 600
       url: http://www.gstatic.com/generate_204
-       
+
+  - name: Columbia
+    proxies:
+      - COL-1-01
+      - COL-1-02
+      - COL-1-03
+      - COL-1-04
+      - COL-1-05
+      - COL-1-06
+      - COL-1-07
+      - COL-1-08
+      - COL-1-09
+      - COL-1-10
+      - COL-1-11
+      - COL-1-12
+      
+      - COL-2-01
+      - COL-2-02
+      - COL-2-03
+      - COL-2-04
+      - COL-2-05
+      - COL-2-06
+      - COL-2-07
+      - COL-2-08
+      - COL-2-09
+      - COL-2-10
+      - COL-2-11
+      - COL-2-12
+      
+      - COL-3-01
+      - COL-3-02
+      - COL-3-03
+      - COL-3-04
+      - COL-3-05
+      - COL-3-06
+      - COL-3-07
+      - COL-3-08
+      - COL-3-09
+      - COL-3-10
+      - COL-3-11
+      - COL-3-12
+    type: select
+    disable-udp: false
+    health-check:
+      enable: false
+      interval: 600
+      url: http://www.gstatic.com/generate_204       
       
   - name: 缅甸
     proxies:
