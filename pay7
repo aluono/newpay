@@ -764,7 +764,9 @@ proxy-groups:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
-  - name: 谷歌分流
+
+
+  - name: Google Play
     proxies:
       - REJECT
       - 登录专用 
@@ -778,6 +780,7 @@ proxy-groups:
       enable: false
       interval: 600
       url: http://www.gstatic.com/generate_204
+
 
   - name: 登录专用
     proxies:
