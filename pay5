@@ -736,16 +736,28 @@ proxy-providers:
               enable: true
               interval: 600
               url: http://www.gstatic.com/generate_204              
+
+          机场4:
+            type: http
+            url: https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=2adee059aa6f552f48e53c1889b66633
+            interval: 86400
+            path: ./proxy_provider/jc4.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204              
               
 proxy-groups:
   - name: 主线路
     proxies:
       - DIRECT
-      - 谷歌分流
+      - Google Play
     use:
       - 机场1
       - 机场2 
-      - 机场3  
+      - 机场3
+      - 机场4  
     type: select
     disable-udp: true
     health-check:
@@ -754,7 +766,8 @@ proxy-groups:
       url: http://www.gstatic.com/generate_204
   - name: 谷歌分流
     proxies:
-      - REJECT 
+      - REJECT
+      - 登录专用 
       - Egypt
       - Turkey
       - Nigeria
@@ -765,6 +778,18 @@ proxy-groups:
       enable: false
       interval: 600
       url: http://www.gstatic.com/generate_204
+
+  - name: 登录专用
+    type: "select"
+    proxies:
+      - 主线路
+    type: select
+    disable-udp: false
+    health-check:
+      enable: false
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+
 
   - name: Nigeria
     proxies:
@@ -954,10 +979,10 @@ proxy-groups:
       url: http://www.gstatic.com/generate_204
 
 rules:
-  - DOMAIN,play.googleapis.com,谷歌分流
-  - DOMAIN,myaccount.google.com,谷歌分流
-  - DOMAIN-KEYWORD,accounts.google.com,谷歌分流
-  - DOMAIN,play-fe.googleapis.com,谷歌分流
-  - DOMAIN,sspanel.net,谷歌分流
-  - DOMAIN,payments-pa.googleapis.com,谷歌分流
+  - DOMAIN,play.googleapis.com,Google Play
+  - DOMAIN,myaccount.google.com,Google Play
+  - DOMAIN-KEYWORD,accounts.google.com,Google Play
+  - DOMAIN,play-fe.googleapis.com,Google Play
+  - DOMAIN,sspanel.net,Google Play
+  - DOMAIN,payments-pa.googleapis.com,Google Play
   - MATCH,主线路
