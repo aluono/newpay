@@ -771,7 +771,7 @@ proxy-providers:
               
           机场3:
             type: http
-            url: https://911tg3rs.com/api/v1/client/subscribe?token=6e8eeb4d06d16d70cb5768246e11b47f
+            url: https://911tg3rs.com/api/v1/client/subscribe?token=d9baf9d7355db1953d0dc7069719d75f
             interval: 86400
             path: ./proxy_provider/jc3.yaml
             udp: false
