@@ -122,7 +122,7 @@ proxy-groups:
 proxy-providers:
   🐇YToo:
     type: http
-    url: "https://911tg3rs.com/api/v1/client/subscribe?token=6e8eeb4d06d16d70cb5768246e11b47f"
+    url: https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7"
     path: "./YToo/YToo.yaml"
     interval: 1800 
     health-check:
@@ -132,7 +132,7 @@ proxy-providers:
 
   🐇YToo-US-SG-JP:
     type: http
-    url: "https://xyz.chatgpt123xxx456.xyz/api/v1/client/subscribe?token=63667054d6f0c752c8fb161e7ac1b0a0"    
+    url: "https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7"    
     path: "./YToo-US-SG-JP/YToo-US-SG-JP.yaml"
     interval: 1800 
     health-check:
@@ -152,7 +152,7 @@ proxy-providers:
 
   💍MoJie:    
     type: http
-    url: "https://api.wd-gold.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Fwd-gold.com%2Fsubscribe%2Fezvyzb-jp9uyojb"
+    url: "https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7"
     path: "./YiYuan/YiYuan.yaml"
     interval: 1800 
     health-check:
