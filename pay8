@@ -808,7 +808,7 @@ proxy-groups:
       interval: 600
       url: http://www.gstatic.com/generate_204
 
-  - { name: Google Play, type: select, proxies: [REJECT, 主路线, Egypt, Turkey, Nigeria, Columbia] }
+  - { name: Google Play, type: select, proxies: [REJECT, 主线路, Egypt, Turkey, Nigeria, Columbia] }
   
 
 #  - name: Google Play
