@@ -807,24 +807,27 @@ proxy-groups:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
-      
-  - name: Google Play
-    proxies:
-      - REJECT
-######- 登录专用 
-      - Egypt
-      - Turkey
-      - Nigeria
-      - Columbia
-      - 缅甸
-    type: select
-    disable-udp: false
-    health-check:
-      enable: false
-      interval: 600
-      url: http://www.gstatic.com/generate_204
 
-#  - name: 登录专用
+  - { name: Google Play, type: select, proxies: [REJECT, 主路线, Egypt, Turkey, Nigeria, Columbia] }
+  
+
+#  - name: Google Play
+#    proxies:
+#      - REJECT
+#      - LOGIN 
+#      - Egypt
+#      - Turkey
+#      - Nigeria
+#      - Columbia
+#      - 缅甸
+#    type: select
+#    disable-udp: false
+#    health-check:
+#      enable: false
+#      interval: 600
+#      url: http://www.gstatic.com/generate_204
+#
+#  - name: LOGIN
 #    proxies:
 #      - 主线路
 #    type: select
