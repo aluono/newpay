@@ -162,7 +162,7 @@ proxy-providers:
 
   💍MoJie-HK-TW-SG-JP-US:    
     type: http
-    url: ""
+    url: "https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7"
     path: "./MoJie-HK-TW-SG-JP-US/MoJie-HK-TW-SG-JP-US.yaml"
     interval: 1800 
     health-check:
@@ -172,7 +172,7 @@ proxy-providers:
 
   💍MoJie-HK-TW-SG-US:    
     type: http
-    url: ""
+    url: "https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7"
     path: "./MoJie-HK-TW-SG-US/MoJie-HK-TW-SG-US.yaml"
     interval: 1800 
     health-check:
@@ -182,7 +182,7 @@ proxy-providers:
         
   ☁pmCloud:    
     type: http
-    url: ""
+    url: "https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7"
     path: "./pmCloud/pmCloud.yaml"
     interval: 1800 
     health-check:
