@@ -6,7 +6,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: vmess+ws|jv4i.love@xray.com, server: 43.199.73.106, port: 18379, type: vmess, uuid: 7b3d2793-ab28-4da5-adca-d93feb1d5d0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /7b3d2793}}
+  - {name: 🇭🇰 hk-login, server: 43.199.73.106, port: 18379, type: vmess, uuid: 7b3d2793-ab28-4da5-adca-d93feb1d5d0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /7b3d2793}}
   - name: EG-1-01
     type: socks5
     server: gate.visitxiangtan.com
