@@ -750,7 +750,7 @@ proxies:
 proxy-providers:
           机场1:
             type: http
-            url: https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7
+            url: https://gbtgurl.me/api/v1/client/subscribe?token=be8320ffe613b9d33a08c05868a40f4f
             interval: 86400
             path: ./proxy_provider/jc1.yaml
             udp: false
