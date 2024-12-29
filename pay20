@@ -762,16 +762,7 @@ proxy-providers:
               interval: 600
               url: http://www.gstatic.com/generate_204
 
-          机场2:
-            type: http
-            url: https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=beec06e899a8d7cec35e6ddb3807cbba
-            interval: 86400
-            path: ./proxy_provider/jc2.yaml
-            udp: false
-            health-check:
-              enable: true
-              interval: 600
-              url: http://www.gstatic.com/generate_204
+
              
               
 proxy-groups:
@@ -781,7 +772,7 @@ proxy-groups:
       - Google Play
     use:
       - 机场1
-      - 机场2 
+ 
  
     type: select
     disable-udp: true
