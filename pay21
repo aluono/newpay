@@ -257,73 +257,73 @@ proxies:
     
   - name: EG-4-01
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_32425858_time_10
     password: cvy256c2gd1
   - name: EG-4-02
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_14938139_time_10
     password: cvy256c2gd1
   - name: EG-4-03
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_17388349_time_10
     password: cvy256c2gd1
   - name: EG-4-04
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_79667631_time_10
     password: cvy256c2gd1
   - name: EG-4-05
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_12681176_time_10
     password: cvy256c2gd1
   - name: EG-4-06
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_12138689_time_10
     password: cvy256c2gd1
   - name: EG-4-07
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_86229981_time_10
     password: cvy256c2gd1
   - name: EG-4-08
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_83587265_time_10
     password: cvy256c2gd1
   - name: EG-4-09
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_31165163_time_10
     password: cvy256c2gd1
   - name: EG-4-10
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_75156581_time_10
     password: cvy256c2gd1
   - name: EG-4-11
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_19361173_time_10
     password: cvy256c2gd1
   - name: EG-4-12
     type: socks5
-    server: 103.136.150.116
+    server: 212.192.15.212
     port: "20001"
     username: adudu12_custom_zone_EG_sid_33232871_time_10
     password: cvy256c2gd1
