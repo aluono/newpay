@@ -750,7 +750,7 @@ proxies:
 proxy-providers:
           机场1:
             type: http
-            url: https://gbtgurl.me/api/v1/client/subscribe?token=8e475b1603d0bf1665cf2fbd798f07b7
+            url: http://gbtgurl01.org/api/v1/client/subscribe?token=be8320ffe613b9d33a08c05868a40f4f
             interval: 86400
             path: ./proxy_provider/jc1.yaml
             udp: false
@@ -759,38 +759,38 @@ proxy-providers:
               interval: 600
               url: http://www.gstatic.com/generate_204
 
-          机场2:
-            type: http
-            url: https://911tg3rs.com/api/v1/client/subscribe?token=6e8eeb4d06d16d70cb5768246e11b47f
-            interval: 86400
-            path: ./proxy_provider/jc2.yaml
-            udp: false
-            health-check:
-              enable: true
-              interval: 600
-              url: http://www.gstatic.com/generate_204
-              
-          机场3:
-            type: http
-            url: https://911tg3rs.com/api/v1/client/subscribe?token=d9baf9d7355db1953d0dc7069719d75f
-            interval: 86400
-            path: ./proxy_provider/jc3.yaml
-            udp: false
-            health-check:
-              enable: true
-              interval: 600
-              url: http://www.gstatic.com/generate_204              
+#          机场2:
+#            type: http
+#            url: https://911tg3rs.com/api/v1/client/subscribe?token=6e8eeb4d06d16d70cb5768246e11b47f
+#            interval: 86400
+#           path: ./proxy_provider/jc2.yaml
+#            udp: false
+#           health-check:
+#            enable: true
+#              interval: 600
+#              url: http://www.gstatic.com/generate_204
+#              
+#          机场3:
+#            type: http
+#            url: https://911tg3rs.com/api/v1/client/subscribe?token=d9baf9d7355db1953d0dc7069719d75f
+#            interval: 86400
+#            path: ./proxy_provider/jc3.yaml
+#            udp: false
+#            health-check:
+#              enable: true
+#              interval: 600
+#              url: http://www.gstatic.com/generate_204              
 
-          机场4:
-            type: http
-            url: https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=2adee059aa6f552f48e53c1889b66633
-            interval: 86400
-            path: ./proxy_provider/jc4.yaml
-            udp: false
-            health-check:
-              enable: true
-              interval: 600
-              url: http://www.gstatic.com/generate_204              
+#          机场4:
+#            type: http
+#            url: https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=2adee059aa6f552f48e53c1889b66633
+#            interval: 86400
+#            path: ./proxy_provider/jc4.yaml
+#            udp: false
+#            health-check:
+#              enable: true
+#              interval: 600
+#              url: http://www.gstatic.com/generate_204              
               
 proxy-groups:
   - name: 主线路
@@ -799,9 +799,9 @@ proxy-groups:
       - Google Play
     use:
       - 机场1
-      - 机场2 
-      - 机场3
-      - 机场4  
+    #  - 机场2 
+    #  - 机场3
+    #  - 机场4  
     type: select
     disable-udp: true
     health-check:
