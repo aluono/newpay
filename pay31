@@ -584,87 +584,6 @@ proxies:
   - {name: COL-3-12, server: 43.199.73.106, port: 10003, type: socks5, username: 4003011-09664efb, password: 74d73a6e-CO-69669665}
 
 
-  - {name: 缅甸1, server: sg.mooproxy.xyz, port: 55688, type: socks5, username: 47353961-zone-custom-region-MM-sessid-kmszjXc0-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸2, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-3uNCfzJE-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸3, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-lfMahCnS-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸4, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-cEGwQAjc-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸5, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-Wbh9u2rQ-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸6, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-kkUmAw1U-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸7, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-61Eqwe1c-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸8, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-pldGAIdp-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸9, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-86N7SMnE-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸10, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-MM-sessid-0cOzuZkG-sessTime-15, password: dJIA8BM3}
-  - name: 缅甸11
-    type: socks5
-    server: 106.75.152.119
-    port: "1000"
-    username: 0deb2de4-4e71edf4-dc1e67
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸12
-    type: socks5
-    server: 106.75.152.119
-    port: "1001"
-    username: 0deb2de4-4e71edf4-920fa3
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸13
-    type: socks5
-    server: 106.75.152.119
-    port: "1002"
-    username: 0deb2de4-4e71edf4-14b9e1
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸14
-    type: socks5
-    server: 106.75.152.119
-    port: "1003"
-    username: 0deb2de4-4e71edf4-b4decd
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸15
-    type: socks5
-    server: 106.75.152.119
-    port: "1004"
-    username: 0deb2de4-4e71edf4-39a3df
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸16
-    type: socks5
-    server: 106.75.152.119
-    port: "1005"
-    username: 0deb2de4-4e71edf4-b8087f
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸17
-    type: socks5
-    server: 106.75.152.119
-    port: "1006"
-    username: 0deb2de4-4e71edf4-0ef5db
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸18
-    type: socks5
-    server: 106.75.152.119
-    port: "1007"
-    username: 0deb2de4-4e71edf4-202da8
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸19
-    type: socks5
-    server: 106.75.152.119
-    port: "1008"
-    username: 0deb2de4-4e71edf4-03235e
-    password: mobile-mm---
-    udp: true
-  - name: 缅甸20
-    type: socks5
-    server: 106.75.152.119
-    port: "1009"
-    username: 0deb2de4-4e71edf4-6a7bd6
-    password: mobile-mm---
-    udp: true
-
 
 proxy-providers:
           机场1:
@@ -676,10 +595,7 @@ proxy-providers:
             health-check:
               enable: true
               interval: 600
-              url: http://www.gstatic.com/generate_204
-
-
-             
+              url: http://www.gstatic.com/generate_204           
               
 proxy-groups:
   - name: 主线路
@@ -688,8 +604,7 @@ proxy-groups:
       - Google Play
     use:
       - 机场1
- 
- 
+  
     type: select
     disable-udp: true
     health-check:
@@ -704,12 +619,10 @@ proxy-groups:
       - 🇭🇰 justhost-hk-02
       - 🇭🇰 aws-hk-01
       - 🇭🇰 aws-hk-02
-######- 登录专用 
       - Egypt
       - Turkey
       - Nigeria
       - Columbia
-      - 缅甸
     type: select
     disable-udp: false
     health-check:
@@ -717,15 +630,7 @@ proxy-groups:
       interval: 600
       url: http://www.gstatic.com/generate_204
 
-#  - name: 登录专用
-#    proxies:
-#      - 主线路
-#    type: select
-#    disable-udp: false
-#    health-check:
-#      enable: false
-#      interval: 600
-#      url: http://www.gstatic.com/generate_204
+
 
   - name: Nigeria
     proxies:
@@ -786,9 +691,6 @@ proxy-groups:
       - EG-1-07
       - EG-1-08
       - EG-1-09
-#      - EG-1-10
-#      - EG-1-11
-#      - EG-1-12
       
       - EG-2-01
       - EG-2-02
@@ -799,9 +701,6 @@ proxy-groups:
       - EG-2-07
       - EG-2-08
       - EG-2-09
-#      - EG-2-10
-#      - EG-2-11
-#      - EG-2-12
       
       - EG-3-01
       - EG-3-02
@@ -812,10 +711,7 @@ proxy-groups:
       - EG-3-07
       - EG-3-08
       - EG-3-09
-#      - EG-3-10
-#      - EG-3-11
-#      - EG-3-12
-      
+     
       - EG-4-01
       - EG-4-02
       - EG-4-03
@@ -824,11 +720,7 @@ proxy-groups:
       - EG-4-06
       - EG-4-07
       - EG-4-08
-      - EG-4-09
-#      - EG-4-10
-#      - EG-4-11
-#      - EG-4-12
-     
+      - EG-4-09   
     type: select
     disable-udp: false
     health-check:
@@ -848,9 +740,6 @@ proxy-groups:
       - TR-1-07
       - TR-1-08
       - TR-1-09
-      - TR-1-10
-      - TR-1-11
-      - TR-1-12
       
       - TR-2-01
       - TR-2-02
@@ -861,9 +750,6 @@ proxy-groups:
       - TR-2-07
       - TR-2-08
       - TR-2-09
-      - TR-2-10
-      - TR-2-11
-      - TR-2-12
       
       - TR-3-01
       - TR-3-02
@@ -874,9 +760,16 @@ proxy-groups:
       - TR-3-07
       - TR-3-08
       - TR-3-09
-      - TR-3-12
-      - TR-3-11
-      - TR-3-12         
+      
+      - TR-4-01
+      - TR-4-02
+      - TR-4-03
+      - TR-4-04
+      - TR-4-05
+      - TR-4-06
+      - TR-4-07
+      - TR-4-08
+      - TR-4-09      
     type: select
     disable-udp: false
     health-check:
@@ -931,34 +824,7 @@ proxy-groups:
       interval: 600
       url: http://www.gstatic.com/generate_204       
       
-  - name: 缅甸
-    proxies:
-      - 缅甸1
-      - 缅甸2
-      - 缅甸3
-      - 缅甸4
-      - 缅甸5
-      - 缅甸6
-      - 缅甸7
-      - 缅甸8
-      - 缅甸9
-      - 缅甸10
-      - 缅甸11
-      - 缅甸12
-      - 缅甸13
-      - 缅甸14
-      - 缅甸15
-      - 缅甸16
-      - 缅甸17
-      - 缅甸18
-      - 缅甸19
-      - 缅甸20
-    type: select
-    disable-udp: false
-    health-check:
-      enable: false
-      interval: 600
-      url: http://www.gstatic.com/generate_204
+
 
 rules:
   - DOMAIN,play.googleapis.com,Google Play
