@@ -591,14 +591,26 @@ proxies:
 proxy-providers:
           机场1:
             type: http
-            url: http://gbtgurl01.org/api/v1/client/subscribe?token=c558c6013985489c362770c503794f0e
+            url: http://gbtgurl01.org/api/v1/client/subscribe?token=aa2c1c9ebab14e448ce3f478098a1fe4
             interval: 86400
             path: ./proxy_provider/jc1.yaml
             udp: false
             health-check:
               enable: true
               interval: 600
-              url: http://www.gstatic.com/generate_204           
+              url: http://www.gstatic.com/generate_204  
+
+          机场2:
+            type: http
+            url: http://gbtgurl01.org/api/v1/client/subscribe?token=2e353452c10e247e7d7ad4c80bb136c2
+            interval: 86400
+            path: ./proxy_provider/jc2.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204      
+
               
 proxy-groups:
   - name: 主线路
@@ -611,7 +623,7 @@ proxy-groups:
       - 🇭🇰 aws-hk-02
     use:
       - 机场1
-  
+      - 机场2
     type: select
     disable-udp: true
     health-check:
