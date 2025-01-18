@@ -248,46 +248,49 @@ proxies:
 
 
 
-  - {name: TR-1-01, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-11-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-02, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-12-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-03, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-13-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-04, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-14-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-05, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-15-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-06, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-16-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-07, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-17-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-08, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-18-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-09, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-19-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-10, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-20-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-11, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-19-country-tr, password: i=foTnrVk7f5c9VS4i}
-  - {name: TR-1-12, server: gate.visitxiangtan.com, port: 7000, type: socks5, username: user-spwtms2mec-session-20-country-tr, password: i=foTnrVk7f5c9VS4i}
 
 
-  - {name: TR-2-01, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10000, password: cak4dmxlw8za68z}
-  - {name: TR-2-02, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10001, password: cak4dmxlw8za68z}
-  - {name: TR-2-03, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10002, password: cak4dmxlw8za68z}
-  - {name: TR-2-04, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10003, password: cak4dmxlw8za68z}
-  - {name: TR-2-05, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10004, password: cak4dmxlw8za68z}
-  - {name: TR-2-06, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10005, password: cak4dmxlw8za68z}
-  - {name: TR-2-07, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10006, password: cak4dmxlw8za68z}
-  - {name: TR-2-08, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10007, password: cak4dmxlw8za68z}
-  - {name: TR-2-09, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10008, password: cak4dmxlw8za68z}
-  - {name: TR-2-10, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10009, password: cak4dmxlw8za68z}
-  - {name: TR-2-11, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10010, password: cak4dmxlw8za68z}
-  - {name: TR-2-12, server: 103.136.150.116, port: 10303, type: socks5, username: customer-ykYxDPdJUh-cc-TR-sessid-1730124688_10011, password: cak4dmxlw8za68z}
 
+  - {name: TR-1-01, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_38385331_time_10, password: cvy256c2gd1}
+  - {name: TR-1-02, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_87666522_time_10, password: cvy256c2gd1}
+  - {name: TR-1-03, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_91356478_time_10, password: cvy256c2gd1}
+  - {name: TR-1-04, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_62254921_time_10, password: cvy256c2gd1}
+  - {name: TR-1-05, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_87916926_time_10, password: cvy256c2gd1}
+  - {name: TR-1-06, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_45994852_time_10, password: cvy256c2gd1}
+  - {name: TR-1-07, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_94432954_time_10, password: cvy256c2gd1}
+  - {name: TR-1-08, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_51269471_time_10, password: cvy256c2gd1}
+  - {name: TR-1-09, server: 18.163.184.144, port: 36953, type: socks5, username: adudu12_custom_zone_TR_sid_56346883_time_10, password: cvy256c2gd1}
 
-  - {name: TR-3-01, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-37604036}
-  - {name: TR-3-02, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-24565007}
-  - {name: TR-3-03, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-63500063}
-  - {name: TR-3-04, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-26032457}
-  - {name: TR-3-05, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-20672213}
-  - {name: TR-3-06, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-32458714}
-  - {name: TR-3-07, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-37604036}
-  - {name: TR-3-08, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-04670876}
-  - {name: TR-3-09, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-54511509}
-  - {name: TR-3-10, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-18846769}
-  - {name: TR-3-11, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-74107015}
-  - {name: TR-3-12, server: 103.136.150.116, port: 10309, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-70440182}
+  - {name: TR-2-01, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-27604036}
+  - {name: TR-2-02, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-14565007}
+  - {name: TR-2-03, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-63500063}
+  - {name: TR-2-04, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-16032457}
+  - {name: TR-2-05, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-10672213}
+  - {name: TR-2-06, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-22458714}
+  - {name: TR-2-07, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-27604036}
+  - {name: TR-2-08, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-04670876}
+  - {name: TR-2-09, server: 18.163.184.144, port: 19475, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-54511509}
+
+  - {name: TR-3-01, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_38385331_time_10, password: cvy256c2gd1}
+  - {name: TR-3-02, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_87666522_time_10, password: cvy256c2gd1}
+  - {name: TR-3-03, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_91356478_time_10, password: cvy256c2gd1}
+  - {name: TR-3-04, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_62254921_time_10, password: cvy256c2gd1}
+  - {name: TR-3-05, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_87916926_time_10, password: cvy256c2gd1}
+  - {name: TR-3-06, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_45994852_time_10, password: cvy256c2gd1}
+  - {name: TR-3-07, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_94432954_time_10, password: cvy256c2gd1}
+  - {name: TR-3-08, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_51269471_time_10, password: cvy256c2gd1}
+  - {name: TR-3-09, server: 212.192.15.212, port: 20890, type: socks5, username: adudu12_custom_zone_TR_sid_56346883_time_10, password: cvy256c2gd1}
+
+  - {name: TR-4-01, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-47604036}
+  - {name: TR-4-02, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-34565007}
+  - {name: TR-4-03, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-63500063}
+  - {name: TR-4-04, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-36032457}
+  - {name: TR-4-05, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-30672213}
+  - {name: TR-4-06, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-42458714}
+  - {name: TR-4-07, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-47604036}
+  - {name: TR-4-08, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-04670876}
+  - {name: TR-4-09, server: 212.192.15.212, port: 10890, type: socks5, username: 4003011-09664efb, password: 74d73a6e-TR-54511509}
+
 
 
 
@@ -602,6 +605,10 @@ proxy-groups:
     proxies:
       - DIRECT
       - Google Play
+      - 🇭🇰 justhost-hk-01
+      - 🇭🇰 justhost-hk-02
+      - 🇭🇰 aws-hk-01
+      - 🇭🇰 aws-hk-02
     use:
       - 机场1
   
