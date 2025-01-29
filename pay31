@@ -468,73 +468,79 @@ proxies:
     udp: true
 
 
+
   - name: NG-3-01
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-12058364
+    password: 74d73a6e-global-75076797
   - name: NG-3-02
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-27342519
+    password: 74d73a6e-global-52135825
   - name: NG-3-03
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-10289112
+    password: 74d73a6e-global-52064494
   - name: NG-3-04
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-33081306
+    password: 74d73a6e-global-38173513
   - name: NG-3-05
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-27639088
+    password: 74d73a6e-NG-76086834
   - name: NG-3-06
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-20521217
+    password: 74d73a6e-NG-53776846
   - name: NG-3-07
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-58625711
+    password: 74d73a6e-NG-41392485
   - name: NG-3-08
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-84959316
+    password: 74d73a6e-NG-82778546
   - name: NG-3-09
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-75212555
+    password: 74d73a6e-NG-58910326
   - name: NG-3-10
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-34903151
+    password: 74d73a6e-NG-70478573
   - name: NG-3-11
     type: socks5
     server: 18.163.184.144
     port: "10890"
     username: 4003011-09664efb
-    password: 74d73a6e-NG-43149589
-
+    password: 74d73a6e-NG-87568425
+  - name: NG-3-12
+    type: socks5
+    server: 18.163.184.144
+    port: "10890"
+    username: 4003011-09664efb
+    password: 74d73a6e-NG-83781286
 
 
 
