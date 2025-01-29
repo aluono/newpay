@@ -10,8 +10,8 @@ proxies:
 #  - {name: 🇭🇰 hk-login2, server: 43.199.73.106, port: 58461, type: vmess, uuid: 09b20b59-99c8-49ba-e0ac-eec1c9afc44e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /09b20b59}}
 
 
-  - {name: 🇭🇰 justhost-hk-01, type: ss, server: 212.192.15.212, port: 12358, cipher: AEAD_CHACHA20_POLY1305, password: h8w82h83hGWua, udp: true }
-  - {name: 🇭🇰 justhost-hk-02, type: ss, server: 212.192.15.212, port: 20482, cipher: AEAD_CHACHA20_POLY1305, password: Bygwd-dwg16wd-DA, udp: true }
+#  - {name: 🇭🇰 justhost-hk-01, type: ss, server: 212.192.15.212, port: 12358, cipher: AEAD_CHACHA20_POLY1305, password: h8w82h83hGWua, udp: true }
+#  - {name: 🇭🇰 justhost-hk-02, type: ss, server: 212.192.15.212, port: 20482, cipher: AEAD_CHACHA20_POLY1305, password: Bygwd-dwg16wd-DA, udp: true }
   - {name: 🇭🇰 aws-hk-01, type: ss, server: 18.163.184.144, port: 53754, cipher: chacha20-ietf-poly1305, password: YF2hkFkbiP4fw36mYvpv1+9qSLpRzyHHLSmpDKYezAw=, udp: true }
   - {name: 🇭🇰 aws-hk-02, type: vmess,server: 18.163.184.144, port: 35834, uuid: 98544f8a-10c6-4603-ba17-22602c5fadd8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: tcp}  
 
@@ -618,8 +618,8 @@ proxy-groups:
     proxies:
       - DIRECT
       - Google Play
-      - 🇭🇰 justhost-hk-01
-      - 🇭🇰 justhost-hk-02
+#      - 🇭🇰 justhost-hk-01
+ #     - 🇭🇰 justhost-hk-02
       - 🇭🇰 aws-hk-01
       - 🇭🇰 aws-hk-02
     use:
