@@ -534,8 +534,7 @@ proxies:
     port: "10890"
     username: 4003011-09664efb
     password: 74d73a6e-NG-43149589
-  - name: NG-3-12
-    type: socks5
+
 
 
 
@@ -686,7 +685,7 @@ proxy-groups:
       - NG-3-09
       - NG-3-10
       - NG-3-11
-      - NG-3-12
+
     type: select
     disable-udp: false
     health-check:
