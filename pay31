@@ -603,7 +603,7 @@ proxy-providers:
 
           机场2:
             type: http
-            url: http://gbtgurl01.org/api/v1/client/subscribe?token=2e353452c10e247e7d7ad4c80bb136c2
+            url: http://gbtgurl01.org/api/v1/client/subscribe?token=f1e64ffda0f098cd92f29bc52931a35e
             interval: 86400
             path: ./proxy_provider/jc2.yaml
             udp: false
