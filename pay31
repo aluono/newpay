@@ -635,8 +635,8 @@ proxy-groups:
   - name: Google Play
     proxies:
       - REJECT
-      - 🇭🇰 justhost-hk-01
-      - 🇭🇰 justhost-hk-02
+#      - 🇭🇰 justhost-hk-01
+#      - 🇭🇰 justhost-hk-02
       - 🇭🇰 aws-hk-01
       - 🇭🇰 aws-hk-02
       - Egypt
