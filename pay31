@@ -592,7 +592,7 @@ proxies:
 proxy-providers:
           机场1:
             type: http
-            url: http://gbtgurl01.org/api/v1/client/subscribe?token=aa2c1c9ebab14e448ce3f478098a1fe4
+            url: https://dy-2.smjcdh.com/smjc/api/v1/client/subscribe?token=7a8d969a22defdcbb5e8a4c1e0784bec
             interval: 86400
             path: ./proxy_provider/jc1.yaml
             udp: false
