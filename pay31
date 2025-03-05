@@ -8,130 +8,119 @@ proxies:
 
 #  - {name: 🇭🇰 hk-login1, server: 43.199.73.106, port: 34011, type: vmess, uuid: 30180c09-5d7c-4425-c25a-8645363fc610, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /30180c09}}
 #  - {name: 🇭🇰 hk-login2, server: 43.199.73.106, port: 58461, type: vmess, uuid: 09b20b59-99c8-49ba-e0ac-eec1c9afc44e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /09b20b59}}
-
-
 #  - {name: 🇭🇰 justhost-hk-01, type: ss, server: 212.192.15.212, port: 12358, cipher: AEAD_CHACHA20_POLY1305, password: h8w82h83hGWua, udp: true }
 #  - {name: 🇭🇰 justhost-hk-02, type: ss, server: 212.192.15.212, port: 20482, cipher: AEAD_CHACHA20_POLY1305, password: Bygwd-dwg16wd-DA, udp: true }
+
+  - {name: 🇭🇰 acck-hk-01, type: ss, server: 45.196.235.141, port: 37805, cipher: chacha20-ietf-poly1305, password: 61f1UDkLrs7j7I7Oef/tkMyDzxv7xWBkW7gbGLHp64o=, udp: true }
+  - {name: 🇭🇰 acck-hk-02, type: vmess,server: 45.196.235.141, port: 23466, uuid: d160ed9c-6fbc-49b5-bc83-1d9ecfa72bdc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: tcp} 
   - {name: 🇭🇰 aws-hk-01, type: ss, server: 18.163.184.144, port: 53754, cipher: chacha20-ietf-poly1305, password: YF2hkFkbiP4fw36mYvpv1+9qSLpRzyHHLSmpDKYezAw=, udp: true }
   - {name: 🇭🇰 aws-hk-02, type: vmess,server: 18.163.184.144, port: 35834, uuid: 98544f8a-10c6-4603-ba17-22602c5fadd8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: tcp}  
 
   - name: EG-1-01
     type: socks5
-    server: 212.192.15.212
-    port: "10890"
+    server: 45.196.235.141
+    port: "52137"
     username: 4003011-09664efb
     password: 74d73a6e-EG-93976645
     udp: true
   - name: EG-1-02
     type: socks5
-    server: 212.192.15.212
-    port: "10890"
+    server: 45.196.235.141
+    port: "52137"
     username: 4003011-09664efb
     password: 74d73a6e-EG-29464108
     udp: true
   - name: EG-1-03
     type: socks5
-    server: 212.192.15.212
-    port: "10890"
+    server: 45.196.235.141
+    port: "52137"
     username: 4003011-09664efb
     password: 74d73a6e-EG-21069473
     udp: true
   - name: EG-1-04
     type: socks5
-    server: 212.192.15.212
-    port: "10890"
+    server: 45.196.235.141
+    port: "52137"
     username: 4003011-09664efb
     password: 74d73a6e-EG-00694313
     udp: true
   - name: EG-1-05
     type: socks5
-    server: 212.192.15.212
-    port: "10890"
+    server: 45.196.235.141
+    port: "52137"
     username: 4003011-09664efb
     password: 74d73a6e-EG-09346645
     udp: true
   - name: EG-1-06
     type: socks5
-    server: 212.192.15.212
-    port: "10890"
+    server: 45.196.235.141
+    port: "52137"
     username: 4003011-09664efb
     password: 74d73a6e-EG-68970202
     udp: true
   - name: EG-1-07
     type: socks5
-    server: 212.192.15.212
-    port: "10890"
+    server: 45.196.235.141
+    port: "52137"
     username: 4003011-09664efb
     password: 74d73a6e-EG-94564807
     udp: true
   - name: EG-1-08
     type: socks5
-    server: 212.192.15.212
-    port: "10890"
+    server: 45.196.235.141
+    port: "52137"
     username: 4003011-09664efb
     password: 74d73a6e-EG-54948749
     udp: true
-  - name: EG-1-09
-    type: socks5
-    server: 212.192.15.212
-    port: "10890"
-    username: 4003011-09664efb
-    password: 74d73a6e-EG-53989313
-    udp: true
+
    
   - name: EG-2-01
     type: socks5
-    server: 212.192.15.212
-    port: "20890"
+    server: 45.196.235.141
+    port: "41680"
     username: adudu12_custom_zone_EG_sid_32425858_time_10
     password: cvy256c2gd1
   - name: EG-2-02
     type: socks5
-    server: 212.192.15.212
-    port: "20890"
+    server: 45.196.235.141
+    port: "41680"
     username: adudu12_custom_zone_EG_sid_14938139_time_10
     password: cvy256c2gd1
   - name: EG-2-03
     type: socks5
-    server: 212.192.15.212
-    port: "20890"
+    server: 45.196.235.141
+    port: "41680"
     username: adudu12_custom_zone_EG_sid_17388349_time_10
     password: cvy256c2gd1
   - name: EG-2-04
     type: socks5
-    server: 212.192.15.212
-    port: "20890"
+    server: 45.196.235.141
+    port: "41680"
     username: adudu12_custom_zone_EG_sid_79667631_time_10
     password: cvy256c2gd1
   - name: EG-2-05
     type: socks5
-    server: 212.192.15.212
-    port: "20890"
+    server: 45.196.235.141
+    port: "41680"
     username: adudu12_custom_zone_EG_sid_12681176_time_10
     password: cvy256c2gd1
   - name: EG-2-06
     type: socks5
-    server: 212.192.15.212
-    port: "20890"
+    server: 45.196.235.141
+    port: "41680"
     username: adudu12_custom_zone_EG_sid_12138689_time_10
     password: cvy256c2gd1
   - name: EG-2-07
     type: socks5
-    server: 212.192.15.212
-    port: "20890"
+    server: 45.196.235.141
+    port: "41680"
     username: adudu12_custom_zone_EG_sid_86229981_time_10
     password: cvy256c2gd1
   - name: EG-2-08
     type: socks5
-    server: 212.192.15.212
-    port: "20890"
+    server: 45.196.235.141
+    port: "41680"
     username: adudu12_custom_zone_EG_sid_83587265_time_10
-    password: cvy256c2gd1
-  - name: EG-2-09
-    type: socks5
-    server: 212.192.15.212
-    port: "20890"
-    username: adudu12_custom_zone_EG_sid_31165163_time_10
     password: cvy256c2gd1
 
   - name: EG-3-01
@@ -618,8 +607,8 @@ proxy-groups:
     proxies:
       - DIRECT
       - Google Play
-#      - 🇭🇰 justhost-hk-01
-#      - 🇭🇰 justhost-hk-02
+      - 🇭🇰 acck-hk-01
+      - 🇭🇰 acck-hk-02
       - 🇭🇰 aws-hk-01
       - 🇭🇰 aws-hk-02
     use:
@@ -635,8 +624,8 @@ proxy-groups:
   - name: Google Play
     proxies:
       - REJECT
-#      - 🇭🇰 justhost-hk-01
-#      - 🇭🇰 justhost-hk-02
+      - 🇭🇰 acck-hk-01
+      - 🇭🇰 acck-hk-02
       - 🇭🇰 aws-hk-01
       - 🇭🇰 aws-hk-02
       - Egypt
@@ -710,7 +699,6 @@ proxy-groups:
       - EG-1-06
       - EG-1-07
       - EG-1-08
-      - EG-1-09
       
       - EG-2-01
       - EG-2-02
@@ -720,7 +708,6 @@ proxy-groups:
       - EG-2-06
       - EG-2-07
       - EG-2-08
-      - EG-2-09
       
       - EG-3-01
       - EG-3-02
